@@ -4,4 +4,4 @@
    uvicorn app.main:app
 
 2. Run simulation:
-   python simulate/simulate_transaction.py
+   python simulate/simulate_transactions.py
